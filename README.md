@@ -29,5 +29,5 @@ This script requires **no external dependencies** (like `psutil` or Python). It 
 Clone this repository to your Linux server or WSL environment:
 
 ```bash
-git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepoName].git
+git clone [https://github.com/](https://github.com/)[dmsmithjr]/[System-Health-Check-Scripts].git
 cd [YourRepoName]

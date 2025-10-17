@@ -30,4 +30,4 @@ Clone this repository to your Linux server or WSL environment:
 
 ```bash
 git clone [https://github.com/](https://github.com/)[dmsmithjr]/[System-Health-Check-Scripts].git
-cd [YourRepoName]
+cd [System-Health-Check-Scripts]

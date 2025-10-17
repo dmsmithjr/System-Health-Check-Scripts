@@ -8,7 +8,7 @@ This script is ideal for cron-scheduled execution in environments where installi
 
 ***
 
-## ✨ Key Features
+##  Key Features
 
 * **Core Metrics:** Checks CPU load averages, RAM usage, and System Uptime.
 * **Critical Alerting:** Implements conditional logic to flag alerts if key resources exceed predefined thresholds (e.g., Disk Usage > 90%).
@@ -18,7 +18,7 @@ This script is ideal for cron-scheduled execution in environments where installi
 
 ***
 
-## 🛠️ Usage and Installation
+##  Usage and Installation
 
 ### Prerequisites
 

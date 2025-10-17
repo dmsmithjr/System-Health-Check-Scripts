@@ -1,6 +1,6 @@
 # 💻 Linux System Health Check Script (Bash)
 
-## 🎯 Project Overview
+##  Project Overview
 
 This is a lightweight, zero-dependency Bash script designed for **automated, daily health monitoring** of Linux servers (including WSL environments). It quickly gathers crucial system metrics and applies simple alerting logic to proactively detect resource exhaustion before it causes service outages.
 
